@@ -1,12 +1,12 @@
 {
-  "name": "@csstools/postcss-sass",
-  "version": "4.0.0",
+  "name": "@eflexsystems/postcss-sass",
+  "version": "4.0.0-1",
   "description": "Use Sass as a PostCSS plugin",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",
-  "repository": "jonathantneal/postcss-sass",
-  "homepage": "https://github.com/jonathantneal/postcss-sass#readme",
-  "bugs": "https://github.com/jonathantneal/postcss-sass/issues",
+  "repository": "eflexsystems/postcss-sass",
+  "homepage": "https://github.com/eflexsystems/postcss-sass#readme",
+  "bugs": "https://github.com/eflexsystems/postcss-sass/issues",
   "main": "index.cjs.js",
   "module": "index.es.mjs",
   "files": [
